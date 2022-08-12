@@ -1,5 +1,6 @@
 # Nested_Json_Parsing_With_java
 
+- This code depends on com.liferay:com.fasterxml.jackson.databind.
 - This code is used for parsing complex type of JSON data. You can see in below the type of the JSON data.
 - I fetch the data from an api for giving an example.
 - API address: https://datausa.io/api/data?drilldowns=Nation&measures=Population.
